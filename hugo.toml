@@ -5,11 +5,3 @@ title = 'Lord Dunsany en català'
   [params.author]
     email = 'alexvidalobiols@gmail.com'
     name = 'Alex Vidal'
-  [[menus.main]]
-    name = 'Home'
-    pageRef = '/'
-    weight = 10
-  [[menus.main]]
-    name = 'Abouuut'
-    pageRef = '/about'
-    weight = 20
