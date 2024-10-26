@@ -1,4 +1,4 @@
-baseURL = 'https://www.pegana.cat/'
+baseURL = 'https://pegana-cat.github.io/'
 languageCode = 'cat'
 title = 'Lord Dunsany en català'
 [params]
