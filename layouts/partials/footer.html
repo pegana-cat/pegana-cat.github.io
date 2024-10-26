@@ -1,0 +1,7 @@
+{{ with .Params.hide_footer }}
+ <!-- No footer here! -->
+{{ else }}
+ <footer>
+   Aquesta pàgina ha estat creada per {{ .Site.Params.author.name }} l'any {{ now.Year }}
+ </footer>
+{{ end }}
