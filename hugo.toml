@@ -1,7 +1,19 @@
-baseURL = 'https://pegana-cat.github.io/'
+baseURL = 'https://pegana-cat.github.com/'
 languageCode = 'cat'
-title = 'Lord Dunsany en català'
-[params]
-  [params.author]
-    email = 'alexvidalobiols@gmail.com'
-    name = 'Alex Vidal'
+title = 'Pegana.cat'
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderHooks]
+      [markup.goldmark.renderHooks.image]
+        enableDefault = true
+	[markup.goldmark.parser]
+		wrapStandAloneImageWithinParagraph = false
+		[markup.goldmark.parser.attribute]
+			block = true
+[module]
+  [[module.mounts]]
+    source = 'assets'
+    target = 'assets'
+  [[module.mounts]]
+    source = 'static'
+    target = 'assets'

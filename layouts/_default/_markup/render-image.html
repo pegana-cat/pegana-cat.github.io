@@ -1,0 +1,12 @@
+<!---
+	https://toha-guides.netlify.app/posts/shortcodes/
+	https://hugocodex.org/blog/resize-all-images/
+	https://gohugo.io/content-management/image-processing/#fit
+-->
+{{ with (resources.GetMatch .Destination) }}
+    {{ if ne .MediaType.SubType "svg" }}
+	    <center><img src="{{ (.Fit `600x600 jpg Center q100`).RelPermalink | safeURL }}" alt="{{ $.Text }}" /></center>
+    {{ else }}
+        <center><img src="{{ .RelPermalink | safeURL }}" alt="{{ $.Text }}" /><center>
+    {{ end }}
+{{ end }}
