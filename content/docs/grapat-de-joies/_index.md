@@ -24,7 +24,7 @@ Aquest llibret recull dos relats de Lord Dunsany apareguts per primers vegada a 
 
 Les dues il·lustracions de Sidney H. Sime acompanyen els contes a la seva primera pàgina corresponent. Han estat escanejades en alta fidelitat expressament per aquesta edició dels originals al castell de Dunsany, a Irlanda. La portada i la resta d'il·lustracions interiors del llibre són del tarot Rider-Waite, il·lustrades per Pamela Colman Smith. Creiem que tenen un gran impacte tant visual com espiritual, i que ens ajuden a imaginar tantíssimes altres hitstòries que podien passar en aquesta terra meravellosa ideada per Lord Dunsany.
 
-![Per un grapat de joies, portada](/grapat_portada2.jpeg)
+![Per un grapat de joies, portada](/grapat_portada.jpg)
 
 <!---
 {{< imagecenter
