@@ -26,5 +26,5 @@ Edward John Moreton Drax Plunkett, més conegut com a Lord Dunsany, fou un arist
 - Gods of Pegana (1905)
 - Time and the Gods (1906)
 - Dreamer's Tales (1910)
-- The book of Wonder (1912)
+- The Book of Wonder (1912)
 - Tales of Wonder (1916)

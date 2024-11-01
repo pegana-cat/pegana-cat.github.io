@@ -3,7 +3,7 @@ title: Benvinguda
 type: docs
 ---
 
-# Benvinguts a pegana.cat
+# Benvinguts a Pegana.cat
 
 
 ![Timbaler](/Timbaler.png)

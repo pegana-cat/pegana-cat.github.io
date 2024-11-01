@@ -16,7 +16,7 @@ Aquest llibret recull dos relats de Lord Dunsany apareguts per primers vegada a 
 
 - Breu introducció a càrrec de l'editor
 - Pròleg (traducció del pròleg de *The Book of Wonder*)
-- La probable aventura dels tres homes de lletres [*The Probable Adventure of the Three Literary Men*](https://victorianweb.org/authors/dunsany/wonder/4.html), de *The Book of Wonder*)
+- La probable aventura dels tres homes de lletres (traducció de [*The Probable Adventure of the Three Literary Men*](https://victorianweb.org/authors/dunsany/wonder/4.html), de *The Book of Wonder*)
 - El tresor dels Gibbelins (traducció de [*The Hoard of the Gibbelins*](https://victorianweb.org/authors/dunsany/wonder/9.html), de *The Book of Wonder*)
 - Epíleg (adaptació de l'epíleg de *The Book of Wonder*)
 
