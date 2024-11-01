@@ -10,7 +10,7 @@ bookToc: true
 
 Aquest llibret recull dos relats de Lord Dunsany apareguts per primers vegada a *The Book of Wonder* (1912), així com una adaptació del seu pròleg i epíleg. Venen acompanyades de les dues il·lustracions de Sidney H. Sime que ja es van emprar en l'edició original. Consta de 20 pàgines sobre paper XX enquadernades amb grapa. Aquesta primera edició està limitada a 50 còpies i va ser impresa a Barcelona la tardor de 2024.
 
-![Per un grapat de joies](/grapat_proleg.jpeg)
+![Per un grapat de joies](/grapat_ilustro.jpg)
 
 ## Contingut
 
