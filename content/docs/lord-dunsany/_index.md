@@ -6,7 +6,7 @@ bookToc: true
 
 # Lord Dunsany
 
-![Lord Dunsany, 1919](/lord_dunsany_pitit.jpg)
+![Lord Dunsany](/dunsany.jpeg)
 
 <!---
 	https://toha-guides.netlify.app/posts/shortcodes/
