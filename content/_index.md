@@ -15,7 +15,7 @@ Pegana.cat som un grup d’afinitat que té per objectiu traduir i difondre l’
 
 ## Què heu fet per ara?
 
-Hem començat publicant un primer llibret anomenat *Per un grapat de joies: dos robatoris a la fi del món*, que conté la traducció de dos contes del *Book of Wonder* (1912) de Lord Dunsany. Al menú de l'esquerra veureu que n'oferim el text íntegre en aquesta pàgina web, i també el podeu adquirir directament de nosaltres o a XX/YY a partir de desembre. En trobareu més detall [en aquest post.](/docs/grapat-de-joies)
+Hem començat publicant un primer llibret anomenat *Per un grapat de joies: dos robatoris a la fi del món*, que conté la traducció de dos contes del *Book of Wonder* (1912) de Lord Dunsany. Al menú de l'esquerra veureu que n'oferim el text íntegre en aquesta pàgina web, i també el podeu adquirir directament de nosaltres o a XX/YY a partir de desembre. En trobareu més detall [en aquest post.](/docs/grapat-de-joies). Ja estem treballant en el següent projecte. ;-)
 
 
 ## Però algú us ho ha demanat?
