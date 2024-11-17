@@ -20,7 +20,7 @@ Hem començat publicant un primer llibret anomenat *Per un grapat de joies: dos 
 
 ## Però algú us ho ha demanat?
 
-Ens va ser proposat l'estiu de 2014 en una visita als hereus de l'autor al Castell de Dunsany a County Meath, Irlanda. La Lady Dunsany d'aquell moment va comentar que no s'havia traduït Lord Dunsany al català i ens va demanar si no ens hi animaríem. Editar un autor tan únic però alhora ignorat pel circuit comercial en català és la nostra manera de celebrar la nostra llengua i la literatura, sempre tan fantàstica com sigui possible.
+Ens va ser proposat l'estiu de 2014 en una visita als hereus de l'autor al Castell de Dunsany a County Meath, Irlanda. La Lady Dunsany d'aquell moment va comentar que no s'havia traduït Lord Dunsany al català i ens va demanar si no ens hi animaríem. Editar contes sel·leccionats d'un autor tan únic però alhora ignorat pel circuit comercial en català és la nostra manera de celebrar la nostra llengua i la literatura, sempre tan fantàstica com sigui possible.
 
 ## On dieu que podem trobar-vos?
 
