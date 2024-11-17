@@ -2,6 +2,7 @@
 title: Lord Dunsany
 weight: 2
 bookToc: true
+url: "/lord-dunsany"
 ---
 
 # Lord Dunsany

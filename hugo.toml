@@ -10,6 +10,8 @@ title = 'Pegana.cat'
 		wrapStandAloneImageWithinParagraph = false
 		[markup.goldmark.parser.attribute]
 			block = true
+[permalinks]
+  content = '/:slug/:title/'
 [module]
   [[module.mounts]]
     source = 'assets'

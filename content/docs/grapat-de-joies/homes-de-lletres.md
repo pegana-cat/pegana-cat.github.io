@@ -2,6 +2,7 @@
 title: La probable aventura dels tres homes de lletres
 weight: 2
 bookToc: false
+url: "/grapat-de-joies/homes-de-lletres"
 ---
 
 # La probable aventura dels tres homes de lletres
