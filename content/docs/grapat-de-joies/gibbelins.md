@@ -2,7 +2,6 @@
 title: El tresor dels Gibbelins
 weight: 2
 bookToc: false
-url: "/grapat-de-joies/gibbelins"
 ---
 
 # El tresor dels Gibbelins

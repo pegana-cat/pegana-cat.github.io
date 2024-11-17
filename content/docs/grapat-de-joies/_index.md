@@ -2,7 +2,6 @@
 title: Per un grapat de joies
 weight: 10
 bookToc: true
-url: "/grapat-de-joies"
 ---
 
 # Per un grapat de joies: dos robatoris a la fi del món
