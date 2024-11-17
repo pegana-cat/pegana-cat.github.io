@@ -11,7 +11,7 @@ type: docs
 
 ## Qui sou i què feu?
 
-Pegana.cat és un grup d'afinitat que té per objectiu traduïr i difondre l'obra de Lord Dunsany en català. Traduïm peçes de l'escriptor, les editem en forma de llibrets i les disseminem per internet en aquesta pàgina web i certes xàrxes socials. Creiem que la seva visió del món mitològic i imaginari de Pegana és refugi en el món materialista actual. Mirem de traslladar la escriptura poètica de l'autor a un català que conservi un tó entre arcaic i rondallístic, prioritzant que sigui entenible per al lector d'avui en dia. Aquest projecte no té finalitat lucrativa.
+Pegana.cat som un grup d'afinitat que té per objectiu traduïr i difondre l'obra de Lord Dunsany en català. Traduïm peçes de l'escriptor, les editem en forma de llibrets i les disseminem per internet en aquesta pàgina web i certes xàrxes socials. Creiem que la seva visió del món mitològic i imaginari de Pegana és refugi en el món materialista actual. Mirem de traslladar la escriptura poètica de l'autor a un català que conservi un tó entre arcaic i rondallístic, prioritzant que sigui entenible per al lector d'avui en dia. Aquest projecte no té finalitat lucrativa.
 
 ## Què heu fet per ara?
 
