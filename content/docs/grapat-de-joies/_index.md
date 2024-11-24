@@ -8,7 +8,10 @@ bookToc: true
 
 ## Dades bàsiques
 
-Aquest llibret recull dos relats de Lord Dunsany apareguts per primera vegada a *The Book of Wonder* (1912), així com una adaptació del seu pròleg i epíleg. Venen acompanyades de les dues il·lustracions de Sidney H. Sime que ja es van emprar en l'edició original del llibre, així com altres il·lustracions del tarot Rider-Waite. També compta amb una introducció a carrec de l'editor. Consta de 20 pàgines sobre paper XX enquadernades amb grapa. Aquesta primera edició està limitada a 50 còpies i va ser impresa a Barcelona la tardor de 2024.
+Aquest llibret recull dos relats de Lord Dunsany apareguts per primera vegada a *The Book of Wonder* (1912), així com una adaptació del seu pròleg i epíleg. Venen acompanyades de les dues il·lustracions de Sidney H. Sime que ja es van emprar en l'edició original del llibre, així com altres il·lustracions del tarot Rider-Waite. També compta amb una introducció a carrec de l'editor. Consta de 20 pàgines sobre paper XX enquadernades amb grapa. Aquesta primera edició està limitada a 50 còpies (per dir algo) i serà impresa a Barcelona la tardor de 2024. Podeu trobar el text dels contes en català en les següents seccions de la pàgina web:
+
+- [*La probable aventura dels tres homes de lletres*](/docs/grapat-de-joies/homes-de-lletres)
+- [*El tresor dels Gibbelins*](/docs/grapat-de-joies//homes-de-lletres)
 
 ![Per un grapat de joies, portada](/grapat_portada.png)
 
