@@ -24,7 +24,7 @@ Ens va ser proposat l'estiu de 2014 en una visita als hereus de l'autor al Caste
 
 ## On dieu que podem trobar-vos?
 
-Podeu trobar-nos a [Instagram](https://www.instagram.com/pegana.cat/), a [BlueSky](https://bsky.app/profile/pegana-cat.bsky.social) o bé per mail a pegana.cat@gmail.com
+Podeu trobar-nos a [BlueSky](https://bsky.app/profile/pegana-cat.bsky.social) o bé per mail a pegana.cat@gmail.com
 
 ## Llicència
 

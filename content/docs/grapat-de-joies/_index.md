@@ -38,7 +38,7 @@ alt="This is sample image" >}}
 
 ## Com adquirir-lo
 
-El text dels contes s'ofereix íntegrament en aquesta pàgina web amb l'objectiu que arribi a tothom que vulgui llegir-los. En cas que vulgueu donar suport econòmic al projecte, podeu comprar l'edició física del llibret, amb la qual podreu també gaudir del seu disseny i il·lustracions. Té un preu de XX€ i estarà disponible a partir de setembre a pegana.cat@gmail.com
+El text dels contes s'ofereix íntegrament en aquesta pàgina web amb l'objectiu que arribi a tothom que vulgui llegir-los. En cas que vulgueu donar suport econòmic al projecte, podeu comprar l'edició física del llibret, amb la qual podreu també gaudir del seu disseny i il·lustracions. Té un preu de 15€ i estarà disponible a partir de setembre a pegana.cat@gmail.com
 
 ## Crèdits
 
