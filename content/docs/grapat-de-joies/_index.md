@@ -8,7 +8,7 @@ bookToc: true
 
 ## Dades bàsiques
 
-Aquest llibret recull dos relats de Lord Dunsany apareguts per primera vegada a *The Book of Wonder* (1912), així com una adaptació del seu pròleg i epíleg. Venen acompanyades de les dues il·lustracions de Sidney H. Sime que ja es van emprar en l'edició original del llibre, així com altres il·lustracions del tarot Rider-Waite. També compta amb una introducció a carrec de l'editor. Consta de 20 pàgines sobre paper XX enquadernades amb grapa. Aquesta primera edició està limitada a 50 còpies (per dir algo) i serà impresa a Barcelona la tardor de 2024. Podeu trobar el text dels contes en català en les següents seccions de la pàgina web:
+Aquest llibret recull dos relats de Lord Dunsany apareguts per primera vegada a *The Book of Wonder* (1912), així com una adaptació del seu pròleg i epíleg. Venen acompanyades de les dues il·lustracions de Sidney H. Sime que ja es van emprar en l'edició original del llibre, així com altres il·lustracions del tarot Rider-Waite. També compta amb una introducció a carrec de l'editor. Consta de 20 pàgines enquadernades amb grapa. Aquesta primera edició està limitada a 60 còpies i ha sèt impresa a Barcelona l'estiu de 2025. Podeu trobar el text dels contes en català en les següents seccions de la pàgina web:
 
 - [*La probable aventura dels tres homes de lletres*](/docs/grapat-de-joies/homes-de-lletres)
 - [*El tresor dels Gibbelins*](/docs/grapat-de-joies//homes-de-lletres)
@@ -38,7 +38,7 @@ alt="This is sample image" >}}
 
 ## Com adquirir-lo
 
-El text dels contes s'ofereix íntegrament en aquesta pàgina web amb l'objectiu que arribi a tothom que vulgui llegir-los. En cas que vulgueu donar suport econòmic al projecte, podeu comprar l'edició física del llibret, amb la qual podreu també gaudir del seu disseny i il·lustracions. Té un preu de 15€ i estarà disponible a partir de setembre a pegana.cat@gmail.com
+El text dels contes s'ofereix íntegrament en aquesta pàgina web amb l'objectiu que arribi a tothom que vulgui llegir-los. En cas que vulgueu donar suport econòmic al projecte, podeu comprar l'edició física del llibret, amb la qual podreu també gaudir del seu disseny i il·lustracions. Té un preu de 15€ i estarà disponible a partir de setembre de 2025 a pegana.cat@gmail.com
 
 ## Crèdits
 
